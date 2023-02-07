@@ -11,5 +11,5 @@ So any constructive criticism is greatly appreciated!
 
 
 ###### source of exercises: 
-www.practicepython.org
+www.practicepython.org / 
 www.hackerearth.com
