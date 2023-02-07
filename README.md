@@ -1,5 +1,5 @@
-# Python-Exercises
-Just a place for me to show off my little accomplishments on my quest for knowledge :)
+# Coding-Exercises
+Just a place for me to post my daily exercises to keep my skills fresh
     
 If there are ways to improve my code please let me know!
 I know these are just simple applications,
@@ -10,4 +10,6 @@ then i can do it in a more complex environment.
 So any constructive criticism is greatly appreciated! 
 
 
-###### source of exercises: https://www.practicepython.org/
+###### source of exercises: 
+www.practicepython.org
+www.hackerearth.com
