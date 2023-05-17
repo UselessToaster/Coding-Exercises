@@ -13,4 +13,4 @@ So any constructive criticism is greatly appreciated!
 ###### source of exercises: 
 www.practicepython.org / 
 www.hackerearth.com /
-www.dailycodingproblem.com/ (notated as dcp)
+www.dailycodingproblem.com/ (dcp)
