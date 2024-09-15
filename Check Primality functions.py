@@ -1,6 +1,5 @@
 ### determines prime numbers ###
 
-# gets user input
 def user_input():
     return int(input("Give me a number and I will determine its primality: "))
 user = user_input()
@@ -19,7 +18,6 @@ def total_factors(x):
 total = total_factors(0)
 
 
-# determines primality
 def primality():
     if total == 2:
         print("{} is only divisible by 1 and itself so it is a prime number.".format(user))
