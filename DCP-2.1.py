@@ -27,3 +27,16 @@ def sum():
             print(flag)
             break
 sum()
+
+#revised version
+def two_sum(nums, k):
+    seen = set()
+    for num in nums:
+        complement = k - num #by determining the compliment, I can avoid the need for two for loops
+        if complement in seen:
+            return True
+        seen.add(num)
+    return False
+
+outcome = two_sum([10, 15, 3, 7], 17)
+print(outcome)
